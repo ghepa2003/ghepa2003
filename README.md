@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me
 
 * 🎓 **MSc in Automation & Control Engineering** at Polytechnic University of Milan (PoliMi) & Chalmers University of Technology (Erasmus+). Graduating in April 2027.
-* 🔭 I’m currently a **Robotics Research Intern** at Leonardo S.p.A., developing a model-mediated teleoperation system in ROS/C++.
+<!-- * 🔭 I’m currently a **Robotics Research Intern** at Leonardo S.p.A., developing a model-mediated teleoperation system in ROS/C++. -->
 * ⚙️ My background spans **ROS/C++ software development**, **PLC commissioning** on industrial machines, and hands-on **cobot programming**.
 * 🌍 Open to relocation across Europe and available for **Robotics & Automation Engineer** roles from January 2027.
 * 💬 Ask me about: **Multivariable Control, Robotics (ROS/ROS2), PLC, and Real-time systems (FreeRTOS)**.
@@ -59,12 +59,3 @@
   * Designed a pick-and-place cell integrating ABB RobotStudio, Siemens S7-1200 PLC, HMI, and a computer vision system for quality inspection.
 * **Drone Real-Time Control (C/C++, FreeRTOS)**
   * Developed a dynamic model in Simscape, synthesized an LQR controller in MATLAB/Simulink, and implemented the control code on real hardware using an RTOS architecture.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghepa2003&show_icons=true&theme=radical" alt="ghepa2003's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghepa2003&theme=radical" alt="ghepa2003's GitHub Streak" width="48%"/>
-</p>
